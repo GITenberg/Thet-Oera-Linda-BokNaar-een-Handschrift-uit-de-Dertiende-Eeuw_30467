@@ -1,0 +1,27 @@
+_repo: Thet-Oera-Linda-BokNaar-een-Handschrift-uit-de-Dertiende-Eeuw_30467
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Ottema, J. G. (Jan Gerhardus)
+    alias: Ottema, J. O.
+    birthdate: 1804
+    deathdate: 1879
+    gutenberg_agent_id: '34624'
+    url: http://www.gutenberg.org/2009/agents/34624
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: 'Wikipedia: http://en.wikipedia.org/wiki/Oera_Linda'
+gutenberg_issued: '2009-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30467'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PF'
+- !lcsh 'Frisian language -- Texts'
+title: Thet Oera Linda Bok, Naar een Handschrift uit de Dertiende Eeuw
+url: http://www.gutenberg.org/ebooks/30467
