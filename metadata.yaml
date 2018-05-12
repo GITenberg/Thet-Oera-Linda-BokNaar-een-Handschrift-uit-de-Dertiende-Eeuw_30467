@@ -12,6 +12,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: 'Wikipedia: http://en.wikipedia.org/wiki/Oera_Linda'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30467#Thet-Oera-Linda-BokNaar-een-Handschrift-uit-de-Dertiende-Eeuw
 gutenberg_issued: '2009-11-13'
 gutenberg_type: Text
 identifiers:
